@@ -1,0 +1,11 @@
+{
+  "name": "apiRest",
+  "version": "1.0.0",
+  "description": "API_REST",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch api.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
